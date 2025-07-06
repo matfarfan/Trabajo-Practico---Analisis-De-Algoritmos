@@ -1,27 +1,34 @@
-# Trabajo Practico: Analisis De Algoritmos
+# Trabajo Práctico – Análisis de Algoritmos (UTN)
 
-### **Alumnos**:
+Este proyecto fue desarrollado en equipo como parte de la materia *Análisis de Algoritmos* en UTN Buenos Aires (Tecnicatura en Computación).
 
-Matías Farfán – m.farfan06@gmail.com
-<br>
-Lucas Desiderio Silva – lucasdesiderio000@gmail.com
+## 📚 Objetivo del trabajo
+Comparar el rendimiento de diferentes algoritmos de ordenamiento y búsqueda implementados en Python, y analizar su eficiencia con distintos conjuntos de datos.
 
-___
-### **Comisión**: 
-Comisión 7
+## ⚙️ Tecnologías y herramientas
+- Python 3
+- Algoritmos: Bubble Sort, Quick Sort, Merge Sort, Búsqueda Binaria y Lineal
+- Métricas: cantidad de comparaciones, swaps, tiempo de ejecución
+- Gráficos y análisis con hojas de cálculo
+- Git y GitHub para trabajo colaborativo
 
-___
-### **Materia**: 
+## 🧩 Participación personal
+Este repositorio representa una copia del trabajo grupal.  
+**Matías Farfán** participó en:
+- Desarrollo de las funciones de ordenamiento (`quick_sort`)
+- Documentación técnica en el informe
+- Evaluación comparativa de los algoritmos
 
-Programación I.
-___
-### **Profesor**: 
+## 📂 Contenido
+- Código Python con implementación de los algoritmos
+- Informe escrito del análisis
+- Archivos con resultados y gráficos
 
-AUS Bruselario, Sebastián.
-___
-### **Fecha de Entrega**: 
-
-9 de junio de 2025.
+## 👥 Autores
+Proyecto grupal – UTN Buenos Aires  
+Miembros del equipo: Lucas Desiderio Silva – lucasdesiderio000@gmail.com
+Fork mantenido por: **Matías Farfán**  
+GitHub: [https://github.com/matfarfan](https://github.com/matfarfan)
 ___
 ### **URL del video explicativo**:
 
